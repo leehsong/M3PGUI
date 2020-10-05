@@ -2,3 +2,6 @@ pyqt >=5.9.2
 pillow >=7.2.0
 py-opencv >=4.0.1
 pyinstaller
+tensorflow
+tensorflow-datasets
+matplotlib
